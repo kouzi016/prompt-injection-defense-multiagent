@@ -1,0 +1,8 @@
+# Python dependencies
+langchain
+langchain-community
+langchain-core
+openai
+ollama
+pandas
+matplotlib
